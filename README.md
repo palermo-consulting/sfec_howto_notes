@@ -15,3 +15,8 @@ Cost centres are **MDF** objects so you would have to go to **Manage Data** to v
 4. Click on the **Export** button.
 5. Then, go to **Monitor Job**.
 6. Scroll across to the right and click **Download Status**.
+
+## How to check events from middleware integrations like CPI
+
+1. Go to Execution Manager
+
